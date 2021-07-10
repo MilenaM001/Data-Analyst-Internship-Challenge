@@ -22,3 +22,7 @@ Independent and resourceful
 80/20 mindset (doer/finisher, not a perfectionist)
 
 We believe more in actual skills rather than CVs, so to give everyone a fair chance to apply for the internship we’ve got a little data analytical challenge to see your skills in action. See challenge details here xxx If you have any issues, please contact us at xxx  - Good luck and have fun!
+
+
+
+<img width="390" alt="Screenshot 2021-07-09 at 22 23 55" src="https://user-images.githubusercontent.com/87210577/125154383-a7dfe180-e151-11eb-963f-8770e4e68734.png">
