@@ -1,4 +1,7 @@
 # challenge
+
+https://www.linkedin.com/jobs/view/2635526057/?refId=befd84a4-6d03-47a5-937f-09bce44e426d
+
 "Do you have a strong analytical thinking? Do you love solving problems? Are you friends with Excel? We offer an exciting internship for a talented data analyst.
 Fantastic opportunity to develop your data skills and also your communication skills. You will also get a great exposure to the exciting world of Private Equity and Digital transformation. Compared to the internships in the big firms, with us you will have more responsibility and you will get closer to the actual business challenges.
 
