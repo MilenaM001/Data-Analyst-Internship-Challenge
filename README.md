@@ -26,5 +26,6 @@ Independent and resourceful
 
 We believe more in actual skills rather than CVs, so to give everyone a fair chance to apply for the internship we’ve got a little data analytical challenge to see your skills in action. See challenge details here xxx If you have any issues, please contact us at xxx  - Good luck and have fun!"
 
+![image](https://user-images.githubusercontent.com/87210577/125170412-db009000-e1a6-11eb-877a-dc4a444f6003.png)
 
 
