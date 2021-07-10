@@ -1,5 +1,5 @@
 # challenge
-Do you have a strong analytical thinking? Do you love solving problems? Are you friends with Excel? We offer an exciting internship for a talented data analyst.
+"Do you have a strong analytical thinking? Do you love solving problems? Are you friends with Excel? We offer an exciting internship for a talented data analyst.
 Fantastic opportunity to develop your data skills and also your communication skills. You will also get a great exposure to the exciting world of Private Equity and Digital transformation. Compared to the internships in the big firms, with us you will have more responsibility and you will get closer to the actual business challenges.
 
 Responsibilities
@@ -21,7 +21,7 @@ Hands on experience with Excel essential, Power BI/Tableau beneficial
 Independent and resourceful
 80/20 mindset (doer/finisher, not a perfectionist)
 
-We believe more in actual skills rather than CVs, so to give everyone a fair chance to apply for the internship we’ve got a little data analytical challenge to see your skills in action. See challenge details here xxx If you have any issues, please contact us at xxx  - Good luck and have fun!
+We believe more in actual skills rather than CVs, so to give everyone a fair chance to apply for the internship we’ve got a little data analytical challenge to see your skills in action. See challenge details here xxx If you have any issues, please contact us at xxx  - Good luck and have fun!"
 
 
 
