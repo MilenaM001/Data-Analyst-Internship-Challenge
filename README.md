@@ -25,4 +25,3 @@ We believe more in actual skills rather than CVs, so to give everyone a fair cha
 
 
 
-<img width="390" alt="Screenshot 2021-07-09 at 22 23 55" src="https://user-images.githubusercontent.com/87210577/125154383-a7dfe180-e151-11eb-963f-8770e4e68734.png">
