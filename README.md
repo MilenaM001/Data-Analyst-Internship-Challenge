@@ -1,4 +1,4 @@
-Customer Lifetime Value (AVCLV). 
+Customer Lifetime Value (CLV). 
 
 Data Analysit Interhip challenge to calculate  Customer Lifetime Value. Original Post 
 
@@ -16,9 +16,13 @@ https://www.youtube.com/watch?v=JR8_GNINmuQ
 
 <img width="591" alt="Screenshot 2021-07-10 at 18 14 07" src="https://user-images.githubusercontent.com/87210577/125171168-a8589680-e1aa-11eb-87f3-96300678141a.png">
 
-2. Calculate Average order size: average value of sales.
+2. Calculate Average order value: average value of sales by customer.
 
 <img width="455" alt="Screenshot 2021-07-10 at 18 42 33" src="https://user-images.githubusercontent.com/87210577/125171895-9f69c400-e1ae-11eb-9042-75c8bdea8267.png">
 
 <img width="455" alt="Screenshot 2021-07-10 at 18 44 25" src="https://user-images.githubusercontent.com/87210577/125171956-e0fa6f00-e1ae-11eb-8bb9-80fba3e86028.png">
 <img width="455" alt="Screenshot 2021-07-10 at 18 45 22" src="https://user-images.githubusercontent.com/87210577/125171987-00919780-e1af-11eb-814c-2e60f2cfc76d.png">
+
+3. Calculate Number of order per customer 
+
+![ssss](https://user-images.githubusercontent.com/87210577/125332364-e091dd80-e340-11eb-8fcb-73625eef47bc.png)
