@@ -1,10 +1,10 @@
-Average Customer Lifetime Value (AVCLV). 
+Customer Lifetime Value (AVCLV). 
 
-Data Analysit Interhip challenge to calculate Average Customer Lifetime Value. Original Post 
+Data Analysit Interhip challenge to calculate  Customer Lifetime Value. Original Post 
 
 https://www.linkedin.com/jobs/view/2635526057/?refId=c7fa0b8a-70c3-4675-826b-ce1392c4a9d2
 
-To calculate ACLTV the information of this video is used. 
+To calculate CLTV the information of this video is used. 
 
 https://www.youtube.com/watch?v=JR8_GNINmuQ
 
