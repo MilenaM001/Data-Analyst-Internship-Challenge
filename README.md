@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=JR8_GNINmuQ
 
 <img width="591" alt="Screenshot 2021-07-10 at 18 14 07" src="https://user-images.githubusercontent.com/87210577/125171168-a8589680-e1aa-11eb-87f3-96300678141a.png">
 
-the average order value for each customer is calculated. 
+2. Calculate Average order size: average value of sales.
 
 <img width="455" alt="Screenshot 2021-07-10 at 18 42 33" src="https://user-images.githubusercontent.com/87210577/125171895-9f69c400-e1ae-11eb-9042-75c8bdea8267.png">
 
