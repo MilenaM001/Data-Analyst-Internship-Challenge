@@ -9,8 +9,10 @@ To calculate ACLTV the information of this video is used.
 https://www.youtube.com/watch?v=JR8_GNINmuQ
 
 
+1. A pivot table is created to group all total orders by customer. 
 
 <img width="662" alt="Screenshot 2021-07-10 at 17 39 32" src="https://user-images.githubusercontent.com/87210577/125171134-7d6e4280-e1aa-11eb-8396-b5c2777fb332.png">
+
 
 <img width="591" alt="Screenshot 2021-07-10 at 18 14 07" src="https://user-images.githubusercontent.com/87210577/125171168-a8589680-e1aa-11eb-87f3-96300678141a.png">
 
