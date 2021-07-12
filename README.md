@@ -45,15 +45,16 @@ https://www.youtube.com/watch?v=JR8_GNINmuQ
 
 7. Average customer lifespan: 1st order date subtracted by the last order date. For this find the minimun and maximun date. The use the function DATEDIF to find the difference between the data in months. 
 
-<img width="140" alt="Screenshot 2021-07-12 at 21 56 56" src="https://user-images.githubusercontent.com/87210577/125354768-185a4e80-e35c-11eb-9f0c-d37a7d5dbc8f.png">
+<img width="150" alt="Screenshot 2021-07-12 at 21 56 56" src="https://user-images.githubusercontent.com/87210577/125354768-185a4e80-e35c-11eb-9f0c-d37a7d5dbc8f.png">
 
-<img width="140" alt="Screenshot 2021-07-12 at 21 57 24" src="https://user-images.githubusercontent.com/87210577/125354817-2ad48800-e35c-11eb-8918-c9d7d298fe1a.png">
+<img width="150" alt="Screenshot 2021-07-12 at 22 15 50" src="https://user-images.githubusercontent.com/87210577/125356904-c666f800-e35e-11eb-8225-44e3aaeff4e0.png">
+
 
 <img width="140" alt="Screenshot 2021-07-12 at 21 59 05" src="https://user-images.githubusercontent.com/87210577/125355034-6b340600-e35c-11eb-8891-65350bbec8e5.png">
 
 8. Customer lifetime value: average customer lifespan multiplied by average value
 
-<img width="140" alt="Screenshot 2021-07-12 at 22 05 13" src="https://user-images.githubusercontent.com/87210577/125355729-44c29a80-e35d-11eb-8a8f-9d5625c98273.png">
+<img width="130" alt="Screenshot 2021-07-12 at 22 05 13" src="https://user-images.githubusercontent.com/87210577/125355729-44c29a80-e35d-11eb-8a8f-9d5625c98273.png">
 
 
 <img width="700" alt="Screenshot 2021-07-11 at 18 17 20" src="https://user-images.githubusercontent.com/87210577/125355819-628fff80-e35d-11eb-8c64-917876ba6864.png">
