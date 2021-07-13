@@ -1,6 +1,6 @@
 Customer Lifetime Value (CLV). 
 
-Data Analysit Interhip challenge to calculate  Customer Lifetime Value. Original Post 
+Data Analysit Interhip challenge to calculate  CLV. Original Post 
 
 https://www.linkedin.com/jobs/view/2635526057/?refId=c7fa0b8a-70c3-4675-826b-ce1392c4a9d2
 
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=JR8_GNINmuQ
 <img width="100" alt="Screenshot 2021-07-12 at 21 44 24" src="https://user-images.githubusercontent.com/87210577/125353347-58203680-e35a-11eb-9a50-8facdc79e840.png">
 
 
-5.Calculate average order frequency: number of orders divided by number of customers
+5.Calculate average order frequency: number of orders per customer divided by number of customers
 
 <img width="100" alt="Screenshot 2021-07-12 at 21 48 28" src="https://user-images.githubusercontent.com/87210577/125353819-f3b1a700-e35a-11eb-8582-2ff6a880075a.png">
 
