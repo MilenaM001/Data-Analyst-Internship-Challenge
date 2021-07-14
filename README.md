@@ -4,7 +4,7 @@ Data Analysit Interhip challenge to calculate  CLV. Original Post
 
 https://www.linkedin.com/jobs/view/2635526057/?refId=c7fa0b8a-70c3-4675-826b-ce1392c4a9d2
 
-To calculate CLTV the information of this video is used. 
+To calculate CLV the information of this video is used. 
 
 https://www.youtube.com/watch?v=JR8_GNINmuQ
 
@@ -28,22 +28,22 @@ https://www.youtube.com/watch?v=JR8_GNINmuQ
 
 <img width="100" alt="Screenshot 2021-07-12 at 21 42 55" src="https://user-images.githubusercontent.com/87210577/125353215-28712e80-e35a-11eb-9c83-e0bbd3f44aee.png">
 
-4.Calculate the total number of customers 
+4. Calculate the total number of customers 
 
 <img width="100" alt="Screenshot 2021-07-12 at 21 44 24" src="https://user-images.githubusercontent.com/87210577/125353347-58203680-e35a-11eb-9a50-8facdc79e840.png">
 
 
-5.Calculate average order frequency: number of orders per customer divided by number of customers
+5. Calculate average order frequency: number of orders per customer divided by number of customers
 
-<img width="100" alt="Screenshot 2021-07-12 at 21 48 28" src="https://user-images.githubusercontent.com/87210577/125353819-f3b1a700-e35a-11eb-8582-2ff6a880075a.png">
-
-
-6.calculate average customer value: average order value multiplied by average order frequency
-
-<img width="90" alt="Screenshot 2021-07-12 at 21 53 55" src="https://user-images.githubusercontent.com/87210577/125354440-b863a800-e35b-11eb-9af0-c5572761b2ae.png">
+<img width="120" alt="Screenshot 2021-07-14 at 20 39 16" src="https://user-images.githubusercontent.com/87210577/125682751-5daea08b-9d5b-436d-ac99-ad1d05b249ca.png">
 
 
-7. Average customer lifespan: 1st order date subtracted by the last order date. For this find the minimun and maximun date. The use the function DATEDIF to find the difference between the data in months. 
+6. Calculate average customer value: average order value multiplied by average order frequency
+
+<img width="80" alt="Screenshot 2021-07-12 at 21 53 55" src="https://user-images.githubusercontent.com/87210577/125354440-b863a800-e35b-11eb-9af0-c5572761b2ae.png">
+
+
+7. Average customer lifespan: 1st order date subtracted by the last order date. For this find the minimun and maximun date. Then use the function DATEDIF to find the difference between the data in months. 
 
 <img width="150" alt="Screenshot 2021-07-12 at 21 56 56" src="https://user-images.githubusercontent.com/87210577/125354768-185a4e80-e35c-11eb-9f0c-d37a7d5dbc8f.png">
 
