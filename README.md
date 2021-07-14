@@ -9,14 +9,14 @@ To calculate CLTV the information of this video is used.
 https://www.youtube.com/watch?v=JR8_GNINmuQ
 
 
-1. A pivot table is created to group all total orders by customer. 
+1. A pivot table is created to group all orders by customer. 
 
 <img width="362" alt="Screenshot 2021-07-10 at 17 39 32" src="https://user-images.githubusercontent.com/87210577/125171134-7d6e4280-e1aa-11eb-8396-b5c2777fb332.png">
 
 
 <img width="362" alt="Screenshot 2021-07-10 at 18 14 07" src="https://user-images.githubusercontent.com/87210577/125171168-a8589680-e1aa-11eb-87f3-96300678141a.png">
 
-2. Calculate Average order value: average value of sales by customer.
+2. Calculate Average order value for each customer.
 
 <img width="362" alt="Screenshot 2021-07-10 at 18 42 33" src="https://user-images.githubusercontent.com/87210577/125171895-9f69c400-e1ae-11eb-9042-75c8bdea8267.png">
 
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=JR8_GNINmuQ
 
 <img width="192" alt="Screenshot 2021-07-12 at 21 41 21" src="https://user-images.githubusercontent.com/87210577/125353051-f5c73600-e359-11eb-9ada-cad278bb1ba8.png">
 
-3. Calculate Number of order per customer (Use the first column from the sheet "data", A2 is in the actual sheet you are working)
+3. Calculate number of orders per customer (Use the first column from the sheet "data", A2 is in the actual sheet you are working)
 
 <img width="100" alt="Screenshot 2021-07-12 at 21 42 55" src="https://user-images.githubusercontent.com/87210577/125353215-28712e80-e35a-11eb-9c83-e0bbd3f44aee.png">
 
