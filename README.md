@@ -1,6 +1,6 @@
 Customer Lifetime Value (CLV). 
 
-Data Analysit Interhip challenge to calculate  CLV. Original Post 
+Data Analyst Internship challenge to calculate  CLV. Original Post 
 
 https://www.linkedin.com/jobs/view/2635526057/?refId=c7fa0b8a-70c3-4675-826b-ce1392c4a9d2
 
@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=JR8_GNINmuQ
 <img width="80" alt="Screenshot 2021-07-12 at 21 53 55" src="https://user-images.githubusercontent.com/87210577/125354440-b863a800-e35b-11eb-9af0-c5572761b2ae.png">
 
 
-7. Average customer lifespan: 1st order date subtracted by the last order date. For this find the minimun and maximun date. Then use the function DATEDIF to find the difference between the data in months. 
+7. Average customer lifespan: 1st order date subtracted by the last order date. For this find the minimum and maximum date. Then use the function DATEDIF to find the difference between the data in months. 
 
 <img width="150" alt="Screenshot 2021-07-12 at 21 56 56" src="https://user-images.githubusercontent.com/87210577/125354768-185a4e80-e35c-11eb-9f0c-d37a7d5dbc8f.png">
 
