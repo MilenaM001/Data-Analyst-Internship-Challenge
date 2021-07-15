@@ -1,10 +1,10 @@
 Customer Lifetime Value (CLV). 
 
-Data analyst internship challenge to calculate CLV. Original Post 
+Data analyst internship challenge to calculate CLV. Original Post:
 
 https://www.linkedin.com/jobs/view/2635526057/?refId=c7fa0b8a-70c3-4675-826b-ce1392c4a9d2
 
-To calculate CLV the information in this video is used. 
+To calculate CLV the information in this video is used: 
 
 https://www.youtube.com/watch?v=JR8_GNINmuQ
 
